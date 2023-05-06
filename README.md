@@ -1,8 +1,11 @@
 # ML_final_project
 re-implementation of cycleGAN
 
+
 CycleGAN re-implementation script is train_custom.py
+
 Baseline implementation script is train_custom_no_cycle.py
+
 plot_losses.py is a simple script to plot the generated loss text file
 
 How to run: 
